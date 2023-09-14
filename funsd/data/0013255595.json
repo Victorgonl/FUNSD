@@ -1,0 +1,559 @@
+[
+    {
+        "box": [
+            91,
+            158,
+            134,
+            179
+        ],
+        "text": "DATE:",
+        "label": "QUESTION",
+        "words": [
+            "DATE:"
+        ],
+        "id": 0,
+        "boxes": [
+            [
+                91,
+                158,
+                134,
+                179
+            ]
+        ],
+        "links": []
+    },
+    {
+        "box": [
+            89,
+            187,
+            160,
+            207
+        ],
+        "text": "SUBJECT:",
+        "label": "QUESTION",
+        "words": [
+            "SUBJECT:"
+        ],
+        "id": 1,
+        "boxes": [
+            [
+                89,
+                187,
+                160,
+                207
+            ]
+        ],
+        "links": []
+    },
+    {
+        "box": [
+            89,
+            240,
+            148,
+            260
+        ],
+        "text": "WRITER:",
+        "label": "QUESTION",
+        "words": [
+            "WRITER:"
+        ],
+        "id": 2,
+        "boxes": [
+            [
+                89,
+                240,
+                148,
+                260
+            ]
+        ],
+        "links": []
+    },
+    {
+        "box": [
+            87,
+            286,
+            178,
+            306
+        ],
+        "text": "APPROVALS:",
+        "label": "QUESTION",
+        "words": [
+            "APPROVALS:"
+        ],
+        "id": 3,
+        "boxes": [
+            [
+                87,
+                286,
+                178,
+                306
+            ]
+        ],
+        "links": [
+            [
+                3,
+                11
+            ],
+            [
+                3,
+                12
+            ],
+            [
+                3,
+                13
+            ]
+        ]
+    },
+    {
+        "box": [
+            87,
+            508,
+            143,
+            528
+        ],
+        "text": "Other:",
+        "label": "QUESTION",
+        "words": [
+            "Other:"
+        ],
+        "id": 4,
+        "boxes": [
+            [
+                87,
+                508,
+                143,
+                528
+            ]
+        ],
+        "links": []
+    },
+    {
+        "box": [
+            439,
+            426,
+            470,
+            447
+        ],
+        "text": "YES",
+        "label": "QUESTION",
+        "words": [
+            "YES"
+        ],
+        "id": 5,
+        "boxes": [
+            [
+                439,
+                426,
+                470,
+                447
+            ]
+        ],
+        "links": [
+            [
+                14,
+                5
+            ]
+        ]
+    },
+    {
+        "box": [
+            570,
+            433,
+            590,
+            450
+        ],
+        "text": "NO",
+        "label": "QUESTION",
+        "words": [
+            "NO"
+        ],
+        "id": 6,
+        "boxes": [
+            [
+                570,
+                433,
+                590,
+                450
+            ]
+        ],
+        "links": [
+            [
+                14,
+                6
+            ]
+        ]
+    },
+    {
+        "box": [
+            602,
+            323,
+            644,
+            341
+        ],
+        "text": "DATE",
+        "label": "QUESTION",
+        "words": [
+            "DATE"
+        ],
+        "id": 7,
+        "boxes": [
+            [
+                602,
+                323,
+                644,
+                341
+            ]
+        ],
+        "links": []
+    },
+    {
+        "text": "PUBLIC COMMUNICATIONS APPROVAL SHEET The Tobacco Institute",
+        "box": [
+            218,
+            91,
+            525,
+            140
+        ],
+        "label": "HEADER",
+        "words": [
+            "PUBLIC",
+            "COMMUNICATIONS",
+            "APPROVAL",
+            "SHEET",
+            "The",
+            "Tobacco",
+            "Institute"
+        ],
+        "id": 8,
+        "boxes": [
+            [
+                218,
+                91,
+                271,
+                109
+            ],
+            [
+                278,
+                91,
+                398,
+                111
+            ],
+            [
+                404,
+                94,
+                472,
+                111
+            ],
+            [
+                480,
+                96,
+                525,
+                113
+            ],
+            [
+                278,
+                120,
+                305,
+                135
+            ],
+            [
+                309,
+                122,
+                372,
+                137
+            ],
+            [
+                376,
+                123,
+                457,
+                140
+            ]
+        ],
+        "links": []
+    },
+    {
+        "text": "Attachment A",
+        "box": [
+            539,
+            53,
+            641,
+            75
+        ],
+        "label": "HEADER",
+        "words": [
+            "Attachment",
+            "A"
+        ],
+        "id": 9,
+        "boxes": [
+            [
+                539,
+                53,
+                624,
+                75
+            ],
+            [
+                628,
+                53,
+                641,
+                75
+            ]
+        ],
+        "links": []
+    },
+    {
+        "text": "NAME OR INITIALS",
+        "box": [
+            415,
+            314,
+            556,
+            338
+        ],
+        "label": "QUESTION",
+        "words": [
+            "NAME",
+            "OR",
+            "INITIALS"
+        ],
+        "id": 10,
+        "boxes": [
+            [
+                415,
+                314,
+                456,
+                338
+            ],
+            [
+                459,
+                318,
+                480,
+                335
+            ],
+            [
+                486,
+                318,
+                556,
+                336
+            ]
+        ],
+        "links": []
+    },
+    {
+        "text": "Division Head",
+        "box": [
+            88,
+            342,
+            198,
+            361
+        ],
+        "label": "ANSWER",
+        "words": [
+            "Division",
+            "Head"
+        ],
+        "id": 11,
+        "boxes": [
+            [
+                88,
+                342,
+                156,
+                359
+            ],
+            [
+                163,
+                344,
+                198,
+                361
+            ]
+        ],
+        "links": [
+            [
+                3,
+                11
+            ]
+        ]
+    },
+    {
+        "text": "Bill Kloepfer",
+        "box": [
+            87,
+            367,
+            200,
+            388
+        ],
+        "label": "ANSWER",
+        "words": [
+            "Bill",
+            "Kloepfer"
+        ],
+        "id": 12,
+        "boxes": [
+            [
+                87,
+                367,
+                122,
+                384
+            ],
+            [
+                130,
+                370,
+                200,
+                388
+            ]
+        ],
+        "links": [
+            [
+                3,
+                12
+            ]
+        ]
+    },
+    {
+        "text": "Sam Chilcote",
+        "box": [
+            88,
+            397,
+            191,
+            415
+        ],
+        "label": "ANSWER",
+        "words": [
+            "Sam",
+            "Chilcote"
+        ],
+        "id": 13,
+        "boxes": [
+            [
+                88,
+                399,
+                116,
+                414
+            ],
+            [
+                123,
+                397,
+                191,
+                415
+            ]
+        ],
+        "links": [
+            [
+                3,
+                13
+            ]
+        ]
+    },
+    {
+        "text": "Legal Approval Recommended/ Required:",
+        "box": [
+            88,
+            425,
+            394,
+            447
+        ],
+        "label": "HEADER",
+        "words": [
+            "Legal",
+            "Approval",
+            "Recommended/",
+            "Required:"
+        ],
+        "id": 14,
+        "boxes": [
+            [
+                88,
+                425,
+                133,
+                442
+            ],
+            [
+                138,
+                425,
+                205,
+                443
+            ],
+            [
+                214,
+                426,
+                319,
+                446
+            ],
+            [
+                320,
+                429,
+                394,
+                447
+            ]
+        ],
+        "links": [
+            [
+                14,
+                5
+            ],
+            [
+                14,
+                6
+            ]
+        ]
+    },
+    {
+        "text": "SH &B",
+        "box": [
+            88,
+            448,
+            123,
+            468
+        ],
+        "label": "OTHER",
+        "words": [
+            "SH",
+            "&B"
+        ],
+        "id": 15,
+        "boxes": [
+            [
+                88,
+                448,
+                105,
+                466
+            ],
+            [
+                105,
+                453,
+                123,
+                468
+            ]
+        ],
+        "links": []
+    },
+    {
+        "text": "C& B",
+        "box": [
+            87,
+            479,
+            118,
+            496
+        ],
+        "label": "OTHER",
+        "words": [
+            "C&",
+            "B"
+        ],
+        "id": 16,
+        "boxes": [
+            [
+                87,
+                479,
+                104,
+                496
+            ],
+            [
+                103,
+                482,
+                118,
+                495
+            ]
+        ],
+        "links": []
+    }
+]

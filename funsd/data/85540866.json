@@ -1,0 +1,385 @@
+[
+    {
+        "box": [
+            60,
+            189,
+            94,
+            204
+        ],
+        "text": "(Name)",
+        "label": "QUESTION",
+        "words": [
+            "(Name)"
+        ],
+        "id": 0,
+        "boxes": [
+            [
+                60,
+                189,
+                94,
+                204
+            ]
+        ],
+        "links": []
+    },
+    {
+        "box": [
+            59,
+            225,
+            86,
+            236
+        ],
+        "text": "(Date)",
+        "label": "QUESTION",
+        "words": [
+            "(Date)"
+        ],
+        "id": 1,
+        "boxes": [
+            [
+                59,
+                225,
+                86,
+                236
+            ]
+        ],
+        "links": []
+    },
+    {
+        "box": [
+            412,
+            190,
+            461,
+            207
+        ],
+        "text": "(Position)",
+        "label": "QUESTION",
+        "words": [
+            "(Position)"
+        ],
+        "id": 2,
+        "boxes": [
+            [
+                412,
+                190,
+                461,
+                207
+            ]
+        ],
+        "links": []
+    },
+    {
+        "box": [
+            218,
+            968,
+            254,
+            982
+        ],
+        "text": "(Name)",
+        "label": "QUESTION",
+        "words": [
+            "(Name)"
+        ],
+        "id": 3,
+        "boxes": [
+            [
+                218,
+                968,
+                254,
+                982
+            ]
+        ],
+        "links": []
+    },
+    {
+        "box": [
+            733,
+            714,
+            750,
+            803
+        ],
+        "text": "85540866",
+        "label": "OTHER",
+        "words": [
+            "85540866"
+        ],
+        "id": 4,
+        "boxes": [
+            [
+                733,
+                714,
+                750,
+                803
+            ]
+        ],
+        "links": []
+    },
+    {
+        "text": "MEDIA CONTACT SHEET",
+        "box": [
+            235,
+            82,
+            533,
+            114
+        ],
+        "label": "HEADER",
+        "words": [
+            "MEDIA",
+            "CONTACT",
+            "SHEET"
+        ],
+        "id": 5,
+        "boxes": [
+            [
+                235,
+                82,
+                316,
+                110
+            ],
+            [
+                321,
+                87,
+                444,
+                114
+            ],
+            [
+                451,
+                87,
+                533,
+                112
+            ]
+        ],
+        "links": []
+    },
+    {
+        "text": "(Publication or station)",
+        "box": [
+            60,
+            151,
+            187,
+            167
+        ],
+        "label": "QUESTION",
+        "words": [
+            "(Publication",
+            "or",
+            "station)"
+        ],
+        "id": 6,
+        "boxes": [
+            [
+                60,
+                151,
+                127,
+                166
+            ],
+            [
+                130,
+                155,
+                144,
+                166
+            ],
+            [
+                145,
+                154,
+                187,
+                167
+            ]
+        ],
+        "links": []
+    },
+    {
+        "text": "Reason for Contact",
+        "box": [
+            54,
+            261,
+            189,
+            278
+        ],
+        "label": "QUESTION",
+        "words": [
+            "Reason",
+            "for",
+            "Contact"
+        ],
+        "id": 7,
+        "boxes": [
+            [
+                54,
+                263,
+                110,
+                278
+            ],
+            [
+                115,
+                261,
+                132,
+                275
+            ],
+            [
+                135,
+                261,
+                189,
+                276
+            ]
+        ],
+        "links": []
+    },
+    {
+        "text": "Questions/ Responses",
+        "box": [
+            56,
+            422,
+            208,
+            440
+        ],
+        "label": "QUESTION",
+        "words": [
+            "Questions/",
+            "Responses"
+        ],
+        "id": 8,
+        "boxes": [
+            [
+                56,
+                422,
+                127,
+                439
+            ],
+            [
+                134,
+                423,
+                208,
+                440
+            ]
+        ],
+        "links": []
+    },
+    {
+        "text": "Additional Comments",
+        "box": [
+            54,
+            760,
+            208,
+            781
+        ],
+        "label": "QUESTION",
+        "words": [
+            "Additional",
+            "Comments"
+        ],
+        "id": 9,
+        "boxes": [
+            [
+                54,
+                760,
+                127,
+                780
+            ],
+            [
+                131,
+                761,
+                208,
+                781
+            ]
+        ],
+        "links": []
+    },
+    {
+        "text": "Inquiry handled by:",
+        "box": [
+            54,
+            953,
+            194,
+            973
+        ],
+        "label": "QUESTION",
+        "words": [
+            "Inquiry",
+            "handled",
+            "by:"
+        ],
+        "id": 10,
+        "boxes": [
+            [
+                54,
+                953,
+                107,
+                973
+            ],
+            [
+                110,
+                954,
+                166,
+                972
+            ],
+            [
+                170,
+                953,
+                194,
+                971
+            ]
+        ],
+        "links": []
+    },
+    {
+        "text": "(Location address)",
+        "box": [
+            415,
+            155,
+            518,
+            172
+        ],
+        "label": "QUESTION",
+        "words": [
+            "(Location",
+            "address)"
+        ],
+        "id": 11,
+        "boxes": [
+            [
+                415,
+                155,
+                468,
+                172
+            ],
+            [
+                471,
+                156,
+                518,
+                169
+            ]
+        ],
+        "links": []
+    },
+    {
+        "text": "(Phone number)",
+        "box": [
+            413,
+            226,
+            497,
+            241
+        ],
+        "label": "QUESTION",
+        "words": [
+            "(Phone",
+            "number)"
+        ],
+        "id": 12,
+        "boxes": [
+            [
+                413,
+                226,
+                452,
+                241
+            ],
+            [
+                455,
+                226,
+                497,
+                241
+            ]
+        ],
+        "links": []
+    }
+]

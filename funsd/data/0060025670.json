@@ -1,0 +1,548 @@
+[
+    {
+        "box": [
+            149,
+            170,
+            217,
+            181
+        ],
+        "text": "Supplier:",
+        "label": "QUESTION",
+        "words": [
+            "Supplier:"
+        ],
+        "id": 0,
+        "boxes": [
+            [
+                149,
+                170,
+                217,
+                181
+            ]
+        ],
+        "links": []
+    },
+    {
+        "box": [
+            196,
+            352,
+            259,
+            363
+        ],
+        "text": "APPROVED",
+        "label": "QUESTION",
+        "words": [
+            "APPROVED"
+        ],
+        "id": 1,
+        "boxes": [
+            [
+                196,
+                352,
+                259,
+                363
+            ]
+        ],
+        "links": []
+    },
+    {
+        "box": [
+            149,
+            596,
+            196,
+            610
+        ],
+        "text": "Tester",
+        "label": "QUESTION",
+        "words": [
+            "Tester"
+        ],
+        "id": 2,
+        "boxes": [
+            [
+                149,
+                596,
+                196,
+                610
+            ]
+        ],
+        "links": []
+    },
+    {
+        "box": [
+            149,
+            655,
+            206,
+            670
+        ],
+        "text": "Manager",
+        "label": "QUESTION",
+        "words": [
+            "Manager"
+        ],
+        "id": 3,
+        "boxes": [
+            [
+                149,
+                655,
+                206,
+                670
+            ]
+        ],
+        "links": []
+    },
+    {
+        "text": "TEST ADHESIVE EVALUATION",
+        "box": [
+            288,
+            92,
+            479,
+            105
+        ],
+        "label": "HEADER",
+        "words": [
+            "TEST",
+            "ADHESIVE",
+            "EVALUATION"
+        ],
+        "id": 4,
+        "boxes": [
+            [
+                288,
+                95,
+                320,
+                105
+            ],
+            [
+                325,
+                92,
+                392,
+                103
+            ],
+            [
+                394,
+                94,
+                479,
+                105
+            ]
+        ],
+        "links": []
+    },
+    {
+        "text": "Adhesive Code:",
+        "box": [
+            149,
+            208,
+            260,
+            222
+        ],
+        "label": "QUESTION",
+        "words": [
+            "Adhesive",
+            "Code:"
+        ],
+        "id": 5,
+        "boxes": [
+            [
+                149,
+                208,
+                212,
+                222
+            ],
+            [
+                219,
+                209,
+                260,
+                220
+            ]
+        ],
+        "links": []
+    },
+    {
+        "text": "Application: tipping, carton end flaps, etc.)",
+        "box": [
+            148,
+            249,
+            404,
+            276
+        ],
+        "label": "QUESTION",
+        "words": [
+            "Application:",
+            "tipping,",
+            "carton",
+            "end",
+            "flaps,",
+            "etc.)"
+        ],
+        "id": 6,
+        "boxes": [
+            [
+                148,
+                249,
+                244,
+                260
+            ],
+            [
+                154,
+                260,
+                220,
+                274
+            ],
+            [
+                225,
+                261,
+                272,
+                272
+            ],
+            [
+                279,
+                263,
+                307,
+                274
+            ],
+            [
+                311,
+                263,
+                357,
+                276
+            ],
+            [
+                365,
+                264,
+                404,
+                275
+            ]
+        ],
+        "links": []
+    },
+    {
+        "text": "Test Period:",
+        "box": [
+            148,
+            299,
+            243,
+            312
+        ],
+        "label": "QUESTION",
+        "words": [
+            "Test",
+            "Period:"
+        ],
+        "id": 7,
+        "boxes": [
+            [
+                148,
+                299,
+                184,
+                312
+            ],
+            [
+                187,
+                299,
+                243,
+                312
+            ]
+        ],
+        "links": []
+    },
+    {
+        "text": "NOT APPROVED",
+        "box": [
+            405,
+            353,
+            500,
+            366
+        ],
+        "label": "QUESTION",
+        "words": [
+            "NOT",
+            "APPROVED"
+        ],
+        "id": 8,
+        "boxes": [
+            [
+                405,
+                353,
+                427,
+                366
+            ],
+            [
+                436,
+                353,
+                500,
+                366
+            ]
+        ],
+        "links": []
+    },
+    {
+        "text": "If not approved state reasons.",
+        "box": [
+            149,
+            402,
+            381,
+            418
+        ],
+        "label": "OTHER",
+        "words": [
+            "If",
+            "not",
+            "approved",
+            "state",
+            "reasons."
+        ],
+        "id": 9,
+        "boxes": [
+            [
+                149,
+                404,
+                164,
+                417
+            ],
+            [
+                173,
+                402,
+                197,
+                416
+            ],
+            [
+                201,
+                402,
+                268,
+                416
+            ],
+            [
+                274,
+                405,
+                312,
+                418
+            ],
+            [
+                320,
+                405,
+                381,
+                418
+            ]
+        ],
+        "links": []
+    },
+    {
+        "text": "Quality Control",
+        "box": [
+            148,
+            616,
+            268,
+            631
+        ],
+        "label": "QUESTION",
+        "words": [
+            "Quality",
+            "Control"
+        ],
+        "id": 10,
+        "boxes": [
+            [
+                148,
+                616,
+                205,
+                629
+            ],
+            [
+                211,
+                616,
+                268,
+                631
+            ]
+        ],
+        "links": []
+    },
+    {
+        "text": "Local Purchasing",
+        "box": [
+            147,
+            634,
+            275,
+            651
+        ],
+        "label": "QUESTION",
+        "words": [
+            "Local",
+            "Purchasing"
+        ],
+        "id": 11,
+        "boxes": [
+            [
+                147,
+                634,
+                189,
+                648
+            ],
+            [
+                193,
+                637,
+                275,
+                651
+            ]
+        ],
+        "links": []
+    },
+    {
+        "text": "Complete and return to D. R. Brickey, Department of Research and Development, as soon as possible.",
+        "box": [
+            147,
+            689,
+            617,
+            720
+        ],
+        "label": "OTHER",
+        "words": [
+            "Complete",
+            "and",
+            "return",
+            "to",
+            "D.",
+            "R.",
+            "Brickey,",
+            "Department",
+            "of",
+            "Research",
+            "and",
+            "Development,",
+            "as",
+            "soon",
+            "as",
+            "possible."
+        ],
+        "id": 12,
+        "boxes": [
+            [
+                148,
+                691,
+                215,
+                704
+            ],
+            [
+                221,
+                691,
+                246,
+                704
+            ],
+            [
+                249,
+                690,
+                299,
+                703
+            ],
+            [
+                303,
+                691,
+                321,
+                704
+            ],
+            [
+                325,
+                690,
+                345,
+                704
+            ],
+            [
+                348,
+                691,
+                366,
+                702
+            ],
+            [
+                373,
+                691,
+                437,
+                704
+            ],
+            [
+                443,
+                693,
+                520,
+                706
+            ],
+            [
+                528,
+                693,
+                546,
+                704
+            ],
+            [
+                550,
+                689,
+                617,
+                704
+            ],
+            [
+                147,
+                703,
+                176,
+                717
+            ],
+            [
+                180,
+                707,
+                271,
+                715
+            ],
+            [
+                271,
+                705,
+                292,
+                716
+            ],
+            [
+                297,
+                704,
+                328,
+                718
+            ],
+            [
+                334,
+                707,
+                352,
+                720
+            ],
+            [
+                356,
+                704,
+                429,
+                718
+            ]
+        ],
+        "links": []
+    },
+    {
+        "text": "ATXO2 0083035",
+        "box": [
+            520,
+            883,
+            634,
+            897
+        ],
+        "label": "OTHER",
+        "words": [
+            "ATXO2",
+            "0083035"
+        ],
+        "id": 13,
+        "boxes": [
+            [
+                520,
+                883,
+                563,
+                896
+            ],
+            [
+                573,
+                883,
+                634,
+                897
+            ]
+        ],
+        "links": []
+    }
+]
